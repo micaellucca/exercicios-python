@@ -1,0 +1,11 @@
+# ambiente virtual e cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+# áudio usado no exercício 21 (não vai para o repositório)
+*.mp3
+# cópia repetida do módulo 03 (o original está em academify/)
+udemy/

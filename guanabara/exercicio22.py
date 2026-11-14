@@ -1,0 +1,6 @@
+nome = input("digite seu nome: ")
+print(nome.upper())
+print(nome.lower())
+print(len(nome))
+nome_primeiro = nome.split()
+print(f"seu primeiro nome é {nome_primeiro[0]}")
